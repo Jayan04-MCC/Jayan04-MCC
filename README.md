@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Jayan04-MCC/Jayan04-MCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Jayan Caceres Cuba 👋
 
-Here are some ideas to get you started:
+Desarrollador enfocado en backend (Java, Spring Boot) y sistemas con C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tecnologías
+Spring Boot • JWT • MySQL • Flyway • Java 17 • C++ • CMake
+
+---
+
+##  Proyectos destacados
+- [foroHub](link): foro web con Spring Boot, JWT y seguridad.
+- [KOHONEN](link): implementación en C++ con OpenCV.
+- [Proyecto_Tópicos_I A Mini BERT](link): proyecto IA en C++.
+
+---
+
+##  GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayan04-MCC)
+
+---
+
+##  Conectemos
+[LinkedIn](...) • [Blog / Portfolio](...) • [Twitter](...)
+
+*“Aprendiendo y compartiendo código cada día”*
+
